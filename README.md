@@ -115,7 +115,7 @@ Flow includes:
 4. Mobile dashboard support.
 
 ## Author: NAGA SAI SRAVAB REDROWTHU
-PulseInsight - Predict. Protect. Prevent.
-University of Massachusetts of Dartmouth
-Under the guidance of Prof.Long Jiao
-Master’s Project Spring 2026 - Healthcare AI Risk Prediction System
+#### PulseInsight - Predict. Protect. Prevent.
+#### University of Massachusetts of Dartmouth
+#### Under the guidance of Prof.Long Jiao
+#### Master’s Project Spring 2026, Healthcare AI Risk Prediction System
