@@ -1,4 +1,4 @@
-# Pulseinsight
+# Pulseinsight - Predict. Protect. Prevent.
 AI-Based Early Warning System for Preventing Serious Safety Events
 
 ## Problem Statement
