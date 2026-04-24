@@ -44,8 +44,8 @@ PulseInsight is an early warning analytics system that predicts the risk of seri
    FastAPI endpoint for external predictions.
     JSON-based risk scoring system.
 
-## Screenshots
-
+## Demo
+Watch here: https://naga313.github.io/Pulseinsight/
 
 ## Output
 The system provides:
