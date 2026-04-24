@@ -1,3 +1,5 @@
+<img src="assets/PI Google Form Cover Pic.png"/>
+
 # Pulseinsight - Predict. Protect. Prevent.
 AI-Based Early Warning System for Preventing Serious Safety Events
 
@@ -41,6 +43,9 @@ PulseInsight is an early warning analytics system that predicts the risk of seri
 5. API Layer
    FastAPI endpoint for external predictions.
     JSON-based risk scoring system.
+
+## Screenshots
+
 
 ## Output
 The system provides:
