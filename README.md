@@ -3,6 +3,9 @@
 # Pulseinsight - Predict. Protect. Prevent.
 AI-Based Early Warning System for Preventing Serious Safety Events
 
+# Disclaimer
+PulseInsight is a fully developed system for safety risk management. Any data, images, or screenshots used in this study are for education, feedback, and evaluation purposes only. 
+
 ## Problem Statement
 Current safety monitoring systems are mostly reactive incidents are analyzed only after they occur. There is a lack of predictive and explainable systems that can identify high-risk situations early and support timely interventions.
 
