@@ -114,7 +114,7 @@ Flow includes:
 3. Real-time database integration Live hospital data streaming.
 4. Mobile dashboard support.
 
-## Author: NAGA SAI SRAVAB REDROWTHU
+## Author: NAGA SAI SRAVAN REDROWTHU
 #### PulseInsight - Predict. Protect. Prevent.
 #### University of Massachusetts of Dartmouth
 #### Under the guidance of Prof.Long Jiao
